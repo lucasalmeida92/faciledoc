@@ -1,0 +1,24 @@
+{
+  "name": "faciledoc",
+  "version": "1.0.0",
+  "description": "A simple and facile JSDoc 3 Template / Theme",
+  "main": "publish.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucasalmeida92/faciledoc.git"
+  },
+  "author": "Lucas Almeida Siqueira <lucasalmeida70@gmail.com>",
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/lucasalmeida92/faciledoc/issues"
+  },
+  "homepage": "https://github.com/lucasalmeida92/faciledoc"
+}
